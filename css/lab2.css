@@ -1,0 +1,51 @@
+header,
+footer {
+  color: white;
+  background-color: #daad86;
+  margin: 0em 4em 0.5em 4em;
+}
+
+body {
+  font-family: "Georgia", "Cambria ", "Times New Roman", Times, serif;
+  font-size: 100%;
+  background-color: #98dafc;
+}
+
+h1,
+h2,
+h3,
+nav,
+footer {
+  font-family: "Trebuchet MS", "Lucida Grande", "Tahoma", sans-serif;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 0.75em;
+}
+h3 {
+  font-size: 1.125em;
+}
+nav {
+  font-size: 1.125em;
+}
+
+a:link {
+  color: #98dafc;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #daad86;
+}
+
+a:hover {
+  background-color: #ffffcc;
+}
+
+header,
+footer {
+  background-color: #312c32;
+}
