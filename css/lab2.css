@@ -49,3 +49,48 @@ header,
 footer {
   background-color: #312c32;
 }
+
+.navLink {
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+
+.content {
+  background-color: #ffffff;
+  margin-right: 4em;
+  margin-left: 4em;
+  padding: 0.5em;
+}
+
+.largeImage {
+  border: 1px solid #000000;
+  padding: 0.25em;
+  width: 98%;
+}
+
+.sectionHeader {
+  border-bottom: 1px solid #000000;
+}
+
+.socialIconsContainer {
+  background-image: url("../images/gray-gradient.png");
+  height: 50px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  font-size: 0.7em;
+  border: 1px solid #a3a3a3;
+}
+
+.socialIcons {
+  margin-left: 0.5em;
+}
+
+.byline {
+  font-style: italic;
+  color: #3884aa;
+}
+
+.comment {
+  border-bottom: 1px dotted #000000;
+}
